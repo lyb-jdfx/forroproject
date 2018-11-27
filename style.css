@@ -1,0 +1,59 @@
+body{
+  background-color: black;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+
+}
+h2{
+  color: white;
+  font-size: 40px;
+  margin-top: 5px;
+  text-align: center;
+  font-family:  Curlz MT;
+
+}
+
+.img-forro4{
+  width: 700px;
+  margin-right: 10px;
+  margin-top: 5px;
+padding: 2px;
+float: left;
+}
+
+.paragraph1{
+  float: right;
+  color: white;
+  font-size: 25px;
+
+}
+
+
+.img-forro5{
+  width: 700px;
+  margin-right: 20px;
+  margin-top: 50px;
+padding: 2px;
+float: left;
+}
+
+.index-paragraph1{
+  color: white;
+  font-family: Curlz MT;
+  font-size: 25px;
+  line-height: 40px;
+  margin-bottom: 5px;
+
+}
+
+.img-forro6{
+  width: 700px;
+  height: 60px
+  margin-right: 20px;
+  margin-top: 50px;
+padding: 2px;
+float: left;
+}
